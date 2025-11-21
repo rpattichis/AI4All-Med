@@ -9,10 +9,10 @@ To run the tutorials, you will need a free Gmail account. To run the tutorials, 
 ### Session 1. An Introduction to AI for All in Medicine (November 21, 2025)
 [Session 1.1 Introduction to Variables and Strings](Session_1_1_Intro_Variables_Strings_Modules.ipynb) (breakout rooms, 30 minutes)<br>
 [Session 1.2 Working with AI](Session_1_2_Working_with_AI.ipynb) (everyone, 5 minutes max)<br>
-[Session 1.3 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (Breakout rooms, 30 minutes)<br>
+[Session 1.3 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (breakout rooms, 30 minutes)<br>
 **10 Minutes Break** <br>
 [Session 1.4 Loops, conditionals, and sequential thinking](Session_1_4_Loops_conditionals_sequential_thinking.ipynb) (breakout rooms, 30 minutes)<br>
-[Session 1.5 BiomedGPT-HF-Example](https://colab.research.google.com/drive/1AMG-OwmDpnu24a9ZvCNvZi3BZwb3nSfS?usp=sharing#scrollTo=nEQJH5MoT-we) (Everyone)<br>
+[Session 1.5 BiomedGPT-HF-Example](https://colab.research.google.com/drive/1AMG-OwmDpnu24a9ZvCNvZi3BZwb3nSfS?usp=sharing#scrollTo=nEQJH5MoT-we) (everyone)<br>
 [Session 1.6 AI Models and Datasets for Medical Imaging and Multimodal Analysis](https://github.com/pattichis/AIM) (everyone)<br>
 
 ### Session 2: Image, Video, and Speech Representations Using Arrays (December 5, 2025)
