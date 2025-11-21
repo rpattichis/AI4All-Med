@@ -5,6 +5,10 @@ AI4All-Med contains tutorials for introducing AI models for medicine using Pytho
 To run the tutorials, you will need a free Gmail account. To run the tutorials, you will only need to click on the links below. If you need a video introduction on how to run Google Colab notebooks, you can use 
 [Google Colab tutorial](https://www.youtube.com/watch?v=RLYoEyIHL6A). 
 
+# Group building activity
+We introduce the instructor and group leaders. 
+
+
 ## Sessions
 ### Session 1. An Introduction to AI for All in Medicine (November 21, 2025)
 [Session 1.1 Introduction to Variables and Strings](Session_1_1_Intro_Variables_Strings_Modules.ipynb) (breakout rooms, 30 minutes)<br>
