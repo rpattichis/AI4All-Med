@@ -7,7 +7,7 @@ To run the tutorials, you will need a free Gmail account. To run the tutorials, 
 
 ## Sessions
 ### Session 1. An Introduction to AI for All in Medicine (November 21, 2025)
-Survey completion (5 minutes)<br>
+Survey completion (submit by the end of the session)<br>
 Group building activity<br>
 [Session 1.1 Introduction to Variables and Strings](Session_1_1_Intro_Variables_Strings_Modules.ipynb) (breakout rooms, 30 minutes)<br>
 [Session 1.2 Working with AI](Session_1_2_Working_with_AI.ipynb) (everyone, 5 minutes max)<br>
