@@ -12,7 +12,7 @@ Group building activity<br>
 [Session 1.1 Introduction to Variables and Strings](Session_1_1_Intro_Variables_Strings_Modules.ipynb) (breakout rooms, 90 minutes)<br>
 [Session 1.2 Working with AI](Session_1_2_Working_with_AI.ipynb) (everyone, 5 minutes max)<br>
 **10 Minutes Break** <br>
-[Session 1.3 BiomedGPT-HF-Example](https://colab.research.google.com/drive/1AMG-OwmDpnu24a9ZvCNvZi3BZwb3nSfS?usp=sharing#scrollTo=nEQJH5MoT-we) (everyone, 15 minutes)<br>
+[Session 1.3 BiomedGPT-HF-Example](https://colab.research.google.com/drive/1AMG-OwmDpnu24a9ZvCNvZi3BZwb3nSfS?usp=sharing#scrollTo=nEQJH5MoT-we) (everyone, outside link, may break, 15 minutes)<br>
 [Session 1.4 AI Models and Datasets for Medical Imaging and Multimodal Analysis](https://github.com/pattichis/AIM) (everyone, 5 minutes)<br>
 #### Background material for learning to code in Python
 [Session 1.5 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (60 minutes max for self-study)<br>
