@@ -34,7 +34,8 @@ Place the windows side-by-side to continue with the instructions.
 5. Can you think of the clinical implications of not having enough variables in a real-world example?
 
 # Suggested experiments for concentric dataset (upper-left)
-1. Maximize the number of layers and the number of neurons in each layer. Add a little noise to the data. Is this overfitting?
+##  Add a little noise to the data.
+1. Maximize the number of layers and the number of neurons in each layer. Is this overfitting?
 2. Minimize the number of layers and the number of neurons in each layer. Why is this underfitting?
 3. Run on all of the features. Can you see artifacts? Remove features and rerun.
 4. Reduce the ratio of training to test dataset. What is enough?
