@@ -18,7 +18,7 @@ Place the windows side-by-side to continue with the instructions.
 6. Did the colors get corrected? How do you know?
 
 # What to observe during training (after you click play):
-1. ** Neuron outputs: ** Hover over each neuron (do not click on it). Look at the output. What is the relationship between the input features and the output?
+1. <b>Neuron outputs: </b> Hover over each neuron (do not click on it). Look at the output. What is the relationship between the input features and the output?
 2. ** Training versus testing losses: ** Watch the train loss and test loss curves. What are the minimum values? What is the distance between them? You want both of them low. ** Overfitting: ** Test loss is high. Train loss is low. Reduce the network. ** Underfitting: ** High losses. Enlarge the network.
 3. Watch the output colors evolve over time. This is what the neural network is learning. What is the relationship to the plotted points?
 4. Click on "Show test data" on the lower-right. What is the relationship between the training and testing datasets? Are they representative of each other?
