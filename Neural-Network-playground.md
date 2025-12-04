@@ -41,4 +41,7 @@ Place the windows side-by-side to continue with the instructions.
 5. Modify the noise. How does it change performance?
 6. Experiment with the number of features while keeping the same network. 
 
-# Rerun the experiments using the spiral dataset (lower-right).
+# Rerun the experiments using the spiral dataset (lower-right)
+1. This is a much more difficult dataset! What can you say about the final output compared to before?
+2. What should we do to the network for this problem? Increase? Decrease? Why?
+3. How sensitive is the training to the percentage of training to testing samples? Why?
