@@ -41,5 +41,4 @@ Place the windows side-by-side to continue with the instructions.
 5. Modify the noise. How does it change performance?
 6. Experiment with the number of features while keeping the same network. 
 
-Reduce the ratio of training to test data and run the play button to retrain. What happens as the ratio gets reduced? What happens when it gets increased?
-2.  Wha
+# Rerun the experiments using the spiral dataset (lower-right).
