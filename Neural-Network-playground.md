@@ -31,7 +31,7 @@ Place the windows side-by-side to continue with the instructions.
 2. Make sure no connections are leaving any other input.
 3. Train on X1 alone.
 4. Why did this not work?
-5. Can you think of the clinical implications of using the wrong variable in a real-world example?
+5. Can you think of the clinical implications of not having enough variables in a real-world example?
 
 # Suggested experiments for concentric dataset (upper-left)
 1. Maximize the number of layers and the number of neurons in each layer. Why is this overfitting?
