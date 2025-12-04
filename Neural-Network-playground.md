@@ -33,10 +33,13 @@ Place the windows side-by-side to continue with the instructions.
 4. Why did this not work?
 5. Can you think of the clinical implications of using the wrong variable in a real-world example?
 
-
 # Suggested experiments for concentric dataset (upper-left)
 1. Maximize the number of layers and the number of neurons in each layer. Why is this overfitting?
 2. Minimize the number of layers and the number of neurons in each layer. Why is this underfitting?
+3. Run on all of the features. Can you see artifacts? Remove features and rerun.
+4. Reduce the ratio of training to test dataset. What is enough?
+5. Modify the noise. How does it change performance?
+6. Experiment with the number of features while keeping the same network. 
 
 Reduce the ratio of training to test data and run the play button to retrain. What happens as the ratio gets reduced? What happens when it gets increased?
 2.  Wha
