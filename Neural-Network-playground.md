@@ -1,8 +1,9 @@
-# TERMS
-1. DATA = 2-dimensional points. 
-2. INPUTS = FEATURES = One-dimensional X1 and X2. Others are two-dimensional.
-3. Neurons multiply their inputs and add a bias. Line thickness = weight.
-4. OUTPUT = COLOR overlaid over training and testing data.
+# Basic terms
+1. DATA = 2-dimensional points.
+3. INPUTS = FEATURES = One-dimensional X1 and X2. Others are two-dimensional.
+4. Neurons multiply their inputs and add a bias. Line thickness = weight.
+5. OUTPUT = COLOR overlaid over training and testing data.
+6. Noise is a random change to the DATA. Note that it changes both training and testing datasets.
 
 # Setup
 Right-click to open [Neural Networks Playground Website in a separate window](https://playground.tensorflow.org/).
@@ -17,11 +18,12 @@ Place the windows side-by-side to continue with the instructions.
 6. Did the colors get corrected? How do you know?
 
 # What to observe during training (after you click play):
-1. Hover over each neuron (do not click on it). Look at the output.
+1. Hover over each neuron (do not click on it). Look at the output. What is the relationship between the input features and the output?
 2. Watch the train loss and test loss curves. What are the minimum values?
-3. Watch the output colors evolve over time. What is the relationship to the plotted points?
-4. Look  
-
+3. Watch the output colors evolve over time. This is what the neural network is learning. What is the relationship to the plotted points?
+4. Click on "Show test data" on the lower-right. What is the relationship between the training and testing datasets? Are they representative of each other?
+5. Click and unclick on "Show test data". The correct output is presented for Noise=0. The small dots represent the training data. The large dots represent the testing data. 
+ 
 # Train on X1 only
 1. Click on any input to select or deselect it.
 2. Make sure no connections are leaving any other input.
