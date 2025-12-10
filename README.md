@@ -19,16 +19,17 @@ Group building activity<br>
 [Session 1.6 Loops, conditionals, and sequential thinking](Session_1_4_Loops_conditionals_sequential_thinking.ipynb) (60 minutes max for self study)<br>
 
 ### Session 2: Foundations of Machine Learning and Neural Networks I (December 5, 2025)
-* Review of 2D coordinate systems on iPad.
+* Review of 2D coordinate systems using the iPad.
 * [Foundational concepts of Neural Networks](https://github.com/pattichis/AI4All-Med/blob/main/Neural-Network-playground.md)
 * [Pictures: Make a black and white, a greyscale, and a color image](https://ivpcl.unm.edu/ivpclpages/Research/aolme/app/interactive-img-v2.html)
 * [An Introduction to MNIST and K-NN](https://github.com/pattichis/AI4All-Med/blob/main/Session_2_1_MNIST_and_K_NN.ipynb)
   
 ### Session 3: Foundations of Machine Learning and Neural Networks II (December 12, 2025)
-* An introduction to convolution using tensors
+* Review of all activities using the iPad.
 * The linear layer
-* Max pooling
+* An introduction to convolution using tensors.
 * Activation functions
+* Max pooling
 * Loss functions
 * Models
 
