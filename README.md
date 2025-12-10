@@ -26,8 +26,8 @@ Group building activity<br>
   
 ### Session 3: Foundations of Machine Learning and Neural Networks II (December 12, 2025)
 * Review of all activities using the iPad.
-* The linear layer
-* An introduction to convolution using tensors.
+* [The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
+* [An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
 * Activation functions
 * Max pooling
 * Loss functions
